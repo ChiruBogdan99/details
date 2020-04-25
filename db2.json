@@ -1,0 +1,54 @@
+{ "details":
+[
+  {
+    "id": 1,
+    "name": "DUBAI",
+    "details": "Dubai (pronunție românească: [duːˈbaɪ]; în arabă دبي Dubay, pronunție arabă: [dʊˈbɑj]) este cel mai mare oraș din Emiratele Arabe Unite (UAE) după numărul populației. Este situat pe coasta de sud-est a Golfului Persic și este reședința emiratului omonim. Impulsionată de industria petrolului și a gazului, dezvoltarea economică a orașului este rapidă, fiind necesară forță de muncă de peste hotare. Astfel, conform unei statistici efectuate în 2016, 80% din populație este din străinătate (în special din India, Pakistan), Dubai fiind orașul cu (procentual) cei mai mulți locuitori străini"
+  },
+  {
+    "id": 2,
+    "name": "LOS ANGELES",
+    "details": "Los Angeles , cunoscut ca L.A. ori în mod colocvial [the] „City of Angels” (Orașul Îngerilor), este cel mai mare oraș din statul California și al doilea că mărime a populației din Statele Unite ale Americii, fiind întrecut doar de New York City. Populația este estimată la 4 milioane de locuitori. Los Angeles este centrul cultural, financiar și comercial al sudului Californiei. Orașul este recunoscut pentru climatul mediteranean, diversitatea etnică și industria cinematografică și cea a divertismentului, fiind o metropolă în continuă expansiune. "
+  },
+  {
+    "id": 3,
+    "name": "PARIS",
+    "details": "Parisul este astăzi unul dintre cele mai mari centre economice și culturale din lume, iar influența sa politică, educativa, divertisment, mass-media, modă, știință și arte contribuie la considerarea sa drept unul dintre cele mai importante orașe din lume. Acesta găzduiește sediul mai multor organizații internaționale, cum ar fi: UNESCO, Organizația pentru Cooperare și Dezvoltare Economică, Camera Internațională de Comerț sau informalul Clubul Paris. Parisul este considerat unul dintre cele mai verzi și mai locuibile orașe din Europa. De asemenea este unul dintre cele mai scumpe."
+  },
+  {
+    "id": 4,
+    "name": "BARCELONA",
+    "details": "Barcelona este capitala Cataloniei, o comunitate autonomă din nord-estul Spaniei. Este de asemenea al doilea cel mai mare oraș al Spaniei, după Madrid. Barcelona se află pe coasta Mediteranei, 160 km sud de lanțul muntos Pirinei, care reprezintă granița cu Franța. Populația orașului este de aproximativ 1,6 milioane, iar a zonei metropolitane de aproximativ 3 milioane. Barcelona a fost locul în care s-au desfășurat Jocurile Olimpice de vară din 1992. În vara lui 2004 Forumul Internațional al Culturii s-a desfășurat în acest oraș."
+  },
+  {
+    "id": 5,
+    "name": "BUCURESTI",
+    "details": "București este capitala României. Este cel mai populat oraș și cel mai important centru industrial și comercial al țării. Populația de 1.883.425 de locuitori (2011) face ca Bucureștiul să fie al zecelea oraș ca populație din Uniunea Europeană. Conform unor estimări ale unor specialiști, Bucureștiul adună zilnic peste trei milioane de oameni, iar în următorii cinci ani, acest număr va depăși patru milioane. La acestea se adaugă faptul că localitățile din preajma orașului, care vor face parte din viitoarea Zonă Metropolitană, însumează o populație de aproximativ 430.000 de locuitori."
+  },
+  {
+    "id": 6,
+    "name": "LONDRA",
+    "details": "Londra (în engleză London) este capitala Angliei și a Regatului Unit. Este cel mai important centru politic, financiar (datorită City-ului), cultural și artistic al Regatului Unit, și unul dintre cele mai importante orașe ale lumii. Populația Londrei este de 7.421.229 locuitori (la 1 ianuarie 2005) în Londra Mare, cărora li se adaugă alte câteva milioane din zona metropolitană. Există o imensă diversitate de etnii, culturi și religii, Londra fiind unul din cele mai cosmopolite orașe din Europa și din lume. Aici locuiesc, permanent sau temporar, mulți dintre cei mai bogați oameni ai lumii. "
+  },
+  {
+    "id": 7,
+    "name": "ISTANBUL",
+    "details": "Cu o populație de peste 18,8 miloane Istanbulul este un megalopolis, precum și principalul centru financiar, comercial și cultural al Turciei. Se întinde peste 27 de districte din cele 39 ale provinciei cu același nume, fiind una dintre cele mai mari metropole din lume. Este capitala economică a Turciei și prefectura provinciei cu același nume. Partea europeană se află situată în regiunea istorică Tracia iar cea asiatică în Anatolia. Poartă numele oficial de Istanbul din 28 martie 1928. Alături de Atena și Roma, Constantinopol-ul, adică Istanbul-ul se clasează printre cele mai venerabile capitale ale Europei. El a fost înscris pe lista patrimoniului mondial al UNESCO începând cu anul 1985. Asemănător cu Constantinopol-ul în evul mediu, astăzi Istanbul este cea mai mare aglomerare umană a Europei. "
+  },
+  {
+    "id": 8,
+    "name": "BANGKOK",
+    "details": "Bangkok (กรุงเทพฯ, กรุงเทพมหานคร sau Krung Thep în thailandeză) este capitala și cel mai mare oraș al Thailandei, cu o populație de 8.538.610 de locuitori. Orașul este printre cele mai populare destinații de turism din lume, statiune balneoclimaterica cu iesire la golful Thailandei, și în ultimii ani a devenit un centru economic și social care să rivalizeze Hong Kong și Singapore. "
+  },
+  {
+    "id": 9,
+    "name": "TOKYO",
+    "details": "Tokyo este adesea menționat ca fiind oraș, dar de fapt este oficial cunoscut și guvernat drept o “prefectură metropolitană”, care diferă prin combinarea elementeleor unui oraș și cele ale unei prefecturi, caracteristică întâlnită numai în Tokyo. Guvernul Metropolitan din Tokyo administrează cele 23 de Cartiere Speciale din Tokyo (fiecare condus ca un oraș în sine), care acoperea zona Orașului Tokyo înainte să se unească în 1943 și să formeze prefectura metropolitană. "
+  },
+  {
+    "id": 10,
+    "name": "ROMA",
+    "details": "Roma este capitala Italiei. Situat pe malul fluviului Tibru, orașul are o istorie îndelungată fiind de-a lungul secolelor capitala Republicii Romane, a Imperiului Roman, a Bisericii Romano-Catolice și a Italiei moderne. Roma are o populație de 6.000.000 persoane. Aria metropolitană are o populație de circa 4 milioane de locuitori. Este capitala regiunii Lazio și a Provinciei Roma. "
+  }
+]
+}
